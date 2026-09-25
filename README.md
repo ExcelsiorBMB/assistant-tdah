@@ -1,4 +1,4 @@
-# Une chose à la fois — prototype M1
+# "Atypi" — prototype M1
 
 Assistant TDAH : capture rapide de tâches + découpage automatique en sous-étapes
 concrètes et rapides (suggéré par l'API Claude).
